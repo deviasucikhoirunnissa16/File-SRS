@@ -1,6 +1,6 @@
 <h1 align="center" id="software-requirements-specification">DOCUMENTASI PROYEK RPL
 <p align="center"><font size="5"><b>SOFTWARE REQUIREMENTS SPECIFICATIONS</b></font><br>
-"Aplikasi Ujian Online Di Sman 1 Jatibarang Berbasis Website (Uline)"</p>
+"Aplikasi Ujian Online Di Sman 1 Jatibarang Berbasis Website (Uline)"</p></h1>
 
 <p align="center"><img src="Gambar/POLINDRA.png" width="250" height="250"></p>
 
