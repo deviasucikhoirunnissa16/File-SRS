@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-    <b><font size="4">Kelompok 2:</font></b><br>
+    <b><font size="4">Kelompok 4:</font></b><br>
     1. Devia Suci Khoirun Nissa (1703076) <br>
     2. Kastuti (1703062)<br>
     3. Reza Pahlevi Yahya (1703069)
